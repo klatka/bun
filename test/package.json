@@ -23,7 +23,7 @@
     "jest-extended": "4.0.0",
     "lodash": "4.17.21",
     "msgpackr-extract": "3.0.2",
-    "nodemailer": "6.9.3",
+    "nodemailer": "6.9.9",
     "pg": "8.11.1",
     "pg-connection-string": "2.6.1",
     "postgres": "3.3.5",
